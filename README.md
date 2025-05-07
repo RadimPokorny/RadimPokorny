@@ -31,21 +31,21 @@
 - ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 - ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-## 📊 Moje statistiky
+## 📊 My GitHub Stats
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RadimPokorny&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RadimPokorny&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=60)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RadimPokorny&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RadimPokorny&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=60)
 
 </div>
 
-## 📫 Kontakt
+## 📫 Contact
 
 - ✉️ [xpokorr00@stud.fit.vut.cz]
-- 🌐 [(https://radim-pokorny.cz/)]
+- 🌐 [https://radim-pokorny.cz](https://radim-pokorny.cz)
 
 ---
 
-Thank you for visiting my profile! 🚀
+_Thank you for visiting my profile! 🚀_
