@@ -35,9 +35,9 @@
 
 <div align="center">
 
-![](https://raw.githubusercontent.com/RadimPokorny/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/RadimPokorny/special-octo-carnival/master/generated/overview.svg#gh-dark-mode-only)
 
-![](https://raw.githubusercontent.com/RadimPokorny/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/RadimPokorny/special-octo-carnival/master/generated/languages.svg#gh-dark-mode-only)
 
 </div>
 
