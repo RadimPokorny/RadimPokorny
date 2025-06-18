@@ -35,9 +35,9 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RadimPokorny&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=60)
+![](https://raw.githubusercontent.com/RadimPokorny/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RadimPokorny&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=60)
+![](https://raw.githubusercontent.com/RadimPokorny/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 
 </div>
 
