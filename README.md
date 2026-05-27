@@ -37,11 +37,18 @@
 
 <div align="center">
 
-  <img src="https://github-readme-stats-git-master-anuraghazras-projects.vercel.app/api?username=RadimPokorny&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <!-- Hlavní statistiky (Funkční stabilní instance) -->
+  <img src="https://github-readme-stats-alpha-five.vercel.app/api?username=RadimPokorny&show_icons=true&theme=radical" alt="GitHub Stats" />
 
   <br/>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RadimPokorny&theme=dark" alt="GitHub Streak" />
+  <!-- Nejpoužívanější jazyky -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RadimPokorny" alt="Top Languages" />
+
+  <br/>
+
+  <!-- Streak karta (která ti minule fungovala) -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RadimPokorny&theme=radical" alt="GitHub Streak" />
 
 </div>
 
