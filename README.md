@@ -37,9 +37,7 @@
 
 <div align="center">
 
-![](https://raw.githubusercontent.com/RadimPokorny/special-octo-carnival/master/generated/overview.svg#gh-dark-mode-only)
-
-![](https://raw.githubusercontent.com/RadimPokorny/special-octo-carnival/master/generated/languages.svg#gh-dark-mode-only)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RadimPokorny)](https://github.com/RadimPokorny/github-readme-stats)
 
 </div>
 
