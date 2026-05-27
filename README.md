@@ -36,7 +36,13 @@
 ## 📊 My GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RadimPokorny&show_icons=true&theme=radical" alt="GitHub Stats" />
+
+  <img src="https://github-readme-stats-git-master-anuraghazras-projects.vercel.app/api?username=RadimPokorny&show_icons=true&theme=dark" alt="GitHub Stats" />
+
+  <br/>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RadimPokorny&theme=dark" alt="GitHub Streak" />
+
 </div>
 
 ## 📫 Contact
