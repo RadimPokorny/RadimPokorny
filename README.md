@@ -12,7 +12,7 @@
 
 ## 🛠️ Technologies & Tools
 
-Time tracking since 2023 
+Time tracking since December 2023 
 
 <a href="https://wakatime.com/@018c95bc-d96a-4253-a49e-07846b9f4aec"><img src="https://wakatime.com/badge/user/018c95bc-d96a-4253-a49e-07846b9f4aec.svg" alt="Total time coded since Dec 23 2023" /></a>
 
