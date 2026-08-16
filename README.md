@@ -9,6 +9,7 @@
 - 🎓 I am currently studying Information Technology at **BUT FIT** in Brno.
 - 💡 I focus on **web development** (both front-end and back-end) and **software engineering**.
 - 🔍 I enjoy solving algorithmic problems, optimization, and constantly improving my coding skills.
+- 🧑‍💻 Currently working on Bachelor's thesis implemented in **Rust**. 
 
 ## 🛠️ Technologies & Tools
 
